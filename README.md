@@ -94,6 +94,6 @@ Through these projects, I learned:
 
 ## Author
 
-**Dharshini Sivaraman**
+**Dharshini**
 
 CodeAlpha Internship Project Submission
